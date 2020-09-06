@@ -1,0 +1,131 @@
+.imgcenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 190px;
+        }
+
+    .input:focus, textarea:focus, select:focus{
+        outline: none;
+    }       
+
+#mysearchbox{
+    position: relative;
+    display: flex;
+    width:470px;
+    height:39px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 60px;
+    outline:none;
+    box-shadows:none;
+    border: 1px solid #dfe1e5;
+} 
+.googlebuttons{
+    position: relative;
+    padding: 8px 16px;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    cursor: pointer;
+    outline: none;
+    border-radius: 4px;
+    margin: 11px 4px;
+    border: 1px solid #f2f2f2;
+}
+
+ul{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow:hidden; 
+}
+
+li{
+    float:right;
+}
+li a{
+    display:block;
+    margin-top: 5px;
+    padding: 10px;
+    color: rgba(0, 0, 0, 0.87);
+    text-decoration: none;
+    font-size:14px;
+}
+.ninedotbutton {
+    background-image: url(//ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    background-size: 528px 68px;
+    background-position: -132px -38px;
+    display: inline-block;
+    outline: none;
+    vertical-align: middle;
+    border-radius: 2px;
+    box-sizing: border-box;
+    height: 30px;
+    width: 30px;       
+    margin-top: 5px;
+    margin-left:5px;
+    margin-right:5px;
+    opacity: 0.55;
+}
+
+.email_button {
+    -webkit-background-size: 32px 32px;
+    background-size: 32px 32px;
+    border: 0;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    display: block;
+    margin: -1px;
+    position: relative;
+    height: 32px;
+    width: 32px;
+    z-index: 0;
+    padding:5px;
+    margin-right:10px;
+}
+.botnavbar {
+    background-color:#f2f2f2;
+    overflow: hidden;
+    position:fixed;
+    bottom:0;
+    width:100vw;
+    min-width: 300px;
+    border-top: 1px solid #e4e4e4;
+    line-height: 40px;
+}
+footer{
+    margin:0px;
+    padding:0px;
+} */
+
+
+.botnavbar a {
+
+    /* color: #9e9393; */
+    text-align: center;
+    padding: 0px;
+    font-size: 16px;
+}
+.myleft{
+    text-decoration: none;
+    position:relative;
+    padding-left:27px;
+    float:left;
+    color: grey;
+    
+}   
+
+.myright{
+    text-decoration: none;
+    position:relative;
+    float: right;
+    padding-right:27px;
+    color: grey;
+} 
+
